@@ -82,7 +82,7 @@ def clicarImg(s: str) -> bool:
         return False
     return True
 
-
+"""
 renomear()
 clicarImg('janela firefox')
 time.sleep(1)
@@ -102,6 +102,6 @@ pyautogui.keyUp('ctrl')
 time.sleep(0.1)
 if moverParaImg('selecionado'):
     pyautogui.dragTo(15, 300, 1, pyautogui.easeOutQuad, 'left')
-
+"""
 
 
