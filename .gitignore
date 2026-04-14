@@ -1,0 +1,7 @@
+docs/*.pdf
+docs/*.docx
+docs/*.docs
+__pycache__
+__pycache__/*
+.vscode
+.vs
