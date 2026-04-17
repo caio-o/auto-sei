@@ -1,0 +1,3 @@
+[submodule "ohmywindow"]
+	path = ohmywindow
+	url = https://github.com/caio-o/ohmywindow
