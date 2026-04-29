@@ -7,6 +7,9 @@ __pycache__/*
 .vscode
 .vs
 =======
+# Modules
+*ohmywindow/
+
 # Python
 __pycache__/
 *.py[cod]
